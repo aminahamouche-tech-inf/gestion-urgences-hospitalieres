@@ -48,4 +48,4 @@ Encadrants : M. BAKLI, M. OUZEGGANE, Mme. BENSLIMANE
 - Conception et implémentation du module **patients** (`patients.h` / `patient.c`) : structure patient, création, affichage, validation des noms
 - Conception et implémentation du module **queue** (`queue.h` / `queue.c`) : file d'attente FIFO (enqueue, dequeue, get_head, affichage)
 - Contribution au débogage général des autres modules du projet
-- Rédaction du rapport : personnalisation du template Canva, page de couverture, sommaire, introduction et conclusion
+- Rédaction du rapport .
