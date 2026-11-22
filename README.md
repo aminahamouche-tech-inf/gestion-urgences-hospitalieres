@@ -2,7 +2,7 @@
 
 Programme en langage C développé pour simuler la gestion du flux des patients au sein d'un service d'urgence : enregistrement à l'arrivée, suivi de la prise en charge, sortie ou référencement vers un autre département. 
 Il s'agit d'un programme console (non hébergé) réalisé dans un cadre pédagogique.
-> Projet académique réalisé dans le cadre du module **DSA-2 (Algorithmiques et structure de données 2)** — 1ère année ingènieur en Informatique, Université A. Mira, Béjaïa (2025/2026).
+> Projet académique réalisé dans le cadre du module **DSA-2 (Algorithmiques et structure de données 2)** — 1re année ingènieur en Informatique, Université A. Mira, Béjaïa (2025/2026).
 
 ## Fonctionnalités
 
